@@ -1,2 +1,2 @@
-# sankhadeep-s-resume
+# sankhadeep-resume
 My resume
